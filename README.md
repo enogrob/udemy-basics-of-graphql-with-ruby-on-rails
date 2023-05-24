@@ -19,15 +19,15 @@ Section 1: Introduction
 [x] 2. What is GraphQL? 2min
 [x] 3. GraphQL versus REST 2min
 [x] 4. Getting Started 4min
-[ ] 5. GraphiQL 2min
-[ ] 6. The Default Query
+[x] 5. GraphiQL 2min
+[x] 6. The Default Query
 
 Section 2: Reading Data
-[ ] 7. What we'll do 1min
-[ ] 8. JSON 2min
-[ ] 9. Introduction to queries 3min
-[ ] 10. Query arguments 2min
-[ ] 11. Query context 3min
+[x] 7. What we'll do 1min
+[x] 8. JSON 2min
+[x] 9. Introduction to queries 3min
+[x] 10. Query arguments 2min
+[x] 11. Query context 3min
 [ ] 12. ActiveRecord queries 7min
 [ ] 13. Scalar field types 3min
 [ ] 14. Nullability 2min
