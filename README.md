@@ -28,11 +28,11 @@ Section 2: Reading Data
 [x] 9. Introduction to queries 3min
 [x] 10. Query arguments 2min
 [x] 11. Query context 3min
-[ ] 12. ActiveRecord queries 7min
-[ ] 13. Scalar field types 3min
-[ ] 14. Nullability 2min
-[ ] 15. ActiveRecord fields 3min
-[ ] 16. Custom types 3min
+[x] 12. ActiveRecord queries 7min
+[x] 13. Scalar field types 3min
+[x] 14. Nullability 2min
+[x] 15. ActiveRecord fields 3min
+[x] 16. Custom types 3min
 [ ] 17. Arrays 4min
 [ ] Assignment 1: Start the back-end of a blog app
 
