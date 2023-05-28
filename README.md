@@ -33,7 +33,7 @@ Section 2: Reading Data
 [x] 14. Nullability 2min
 [x] 15. ActiveRecord fields 3min
 [x] 16. Custom types 3min
-[ ] 17. Arrays 4min
+[x] 17. Arrays 4min
 [ ] Assignment 1: Start the back-end of a blog app
 
 Section 3: Changing Data
