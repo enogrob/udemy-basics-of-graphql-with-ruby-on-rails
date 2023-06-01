@@ -37,8 +37,8 @@ Section 2: Reading Data
 [ ] Assignment 1: Start the back-end of a blog app
 
 Section 3: Changing Data
-[ ] 18. What we'll do 1min
-[ ] 19. Creating records 6min
+[x] 18. What we'll do 1min
+[x] 19. Creating records 6min
 [ ] 20. Query variables 2min
 [ ] 21. Input types 3min
 [ ] 22. Updating records 3min
