@@ -40,7 +40,7 @@ Section 3: Changing Data
 [x] 18. What we'll do 1min
 [x] 19. Creating records 6min
 [ ] 20. Query variables 2min
-[ ] 21. Input types 3min
+[x] 21. Input types 3min
 [ ] 22. Updating records 3min
 [ ] 23. Deleting records 1min
 [ ] 24. Handling validation errors 3min
