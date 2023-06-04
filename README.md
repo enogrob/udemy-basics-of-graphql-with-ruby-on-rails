@@ -41,9 +41,9 @@ Section 3: Changing Data
 [x] 19. Creating records 6min
 [x] 20. Query variables 2min
 [x] 21. Input types 3min
-[ ] 22. Updating records 3min
-[ ] 23. Deleting records 1min
-[ ] 24. Handling validation errors 3min
+[x] 22. Updating records 3min
+[x] 23. Deleting records 1min
+[x] 24. Handling validation errors 3min
 [ ] Assignment 2: Continue the blog back-end by adding create, update and delete capabilities
 
 Section 4: Authentication, Authorization, and Access Control 
