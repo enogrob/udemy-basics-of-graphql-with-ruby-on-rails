@@ -47,8 +47,8 @@ Section 3: Changing Data
 [ ] Assignment 2: Continue the blog back-end by adding create, update and delete capabilities
 
 Section 4: Authentication, Authorization, and Access Control 
-[ ] 25. What we'll do 2min
-[ ] 26. How authentication and authorisation work 2min
+[x] 25. What we'll do 2min
+[x] 26. How authentication and authorisation work 2min
 [ ] 27. Login (authentication) 5min
 [ ] 28. Authorisation 4min
 [ ] 29. Logout 2min
