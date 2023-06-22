@@ -52,7 +52,7 @@ Section 4: Authentication, Authorization, and Access Control
 [x] 27. Login (authentication) 5min
 [x] 28. Authorisation 4min
 [x] 29. Logout 2min
-[ ] 30. Access control 1min
+[x] 30. Access control 1min
 [ ] 31. Visibility and Authorisation 4min
 
 Section 5: Conclusion
