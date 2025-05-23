@@ -15,12 +15,12 @@ Learn to use GraphQL in a Rails app to talk to your front-end clients. Updated i
 
 ## Topics
 Section 1: Introduction
-[ ] 1. Introduction 2min
-[ ] 2. What is GraphQL? 2min
-[ ] 3. GraphQL versus REST 2min
-[ ] 4. Getting Started 4min
-[ ] 5. GraphiQL 2min
-[ ] 6. The Default Query
+[x] 1. Introduction 2min
+[x] 2. What is GraphQL? 2min
+[x] 3. GraphQL versus REST 2min
+[x] 4. Getting Started 4min
+[x] 5. GraphiQL 2min
+[x] 6. The Default Query
 
 Section 2: Reading Data
 [ ] 7. What we'll do 1min
