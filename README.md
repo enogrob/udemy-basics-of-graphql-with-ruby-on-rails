@@ -15,44 +15,44 @@ Learn to use GraphQL in a Rails app to talk to your front-end clients. Updated i
 
 ## Topics
 Section 1: Introduction
-[x] 1. Introduction 2min
-[x] 2. What is GraphQL? 2min
-[x] 3. GraphQL versus REST 2min
-[x] 4. Getting Started 4min
-[x] 5. GraphiQL 2min
-[x] 6. The Default Query
+[ ] 1. Introduction 2min
+[ ] 2. What is GraphQL? 2min
+[ ] 3. GraphQL versus REST 2min
+[ ] 4. Getting Started 4min
+[ ] 5. GraphiQL 2min
+[ ] 6. The Default Query
 
 Section 2: Reading Data
-[x] 7. What we'll do 1min
-[x] 8. JSON 2min
-[x] 9. Introduction to queries 3min
-[x] 10. Query arguments 2min
-[x] 11. Query context 3min
-[x] 12. ActiveRecord queries 7min
-[x] 13. Scalar field types 3min
-[x] 14. Nullability 2min
-[x] 15. ActiveRecord fields 3min
-[x] 16. Custom types 3min
-[x] 17. Arrays 4min
+[ ] 7. What we'll do 1min
+[ ] 8. JSON 2min
+[ ] 9. Introduction to queries 3min
+[ ] 10. Query arguments 2min
+[ ] 11. Query context 3min
+[ ] 12. ActiveRecord queries 7min
+[ ] 13. Scalar field types 3min
+[ ] 14. Nullability 2min
+[ ] 15. ActiveRecord fields 3min
+[ ] 16. Custom types 3min
+[ ] 17. Arrays 4min
 [ ] Assignment 1: Start the back-end of a blog app
 
 Section 3: Changing Data
-[x] 18. What we'll do 1min
-[x] 19. Creating records 6min
-[x] 20. Query variables 2min
-[x] 21. Input types 3min
-[x] 22. Updating records 3min
-[x] 23. Deleting records 1min
-[x] 24. Handling validation errors 3min
+[ ] 18. What we'll do 1min
+[ ] 19. Creating records 6min
+[ ] 20. Query variables 2min
+[ ] 21. Input types 3min
+[ ] 22. Updating records 3min
+[ ] 23. Deleting records 1min
+[ ] 24. Handling validation errors 3min
 [ ] Assignment 2: Continue the blog back-end by adding create, update and delete capabilities
 
 Section 4: Authentication, Authorization, and Access Control 
-[x] 25. What we'll do 2min
-[x] 26. How authentication and authorisation work 2min
-[x] 27. Login (authentication) 5min
-[x] 28. Authorisation 4min
-[x] 29. Logout 2min
-[x] 30. Access control 1min
+[ ] 25. What we'll do 2min
+[ ] 26. How authentication and authorisation work 2min
+[ ] 27. Login (authentication) 5min
+[ ] 28. Authorisation 4min
+[ ] 29. Logout 2min
+[ ] 30. Access control 1min
 [ ] 31. Visibility and Authorisation 4min
 
 Section 5: Conclusion
