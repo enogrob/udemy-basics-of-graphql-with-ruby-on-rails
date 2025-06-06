@@ -25,7 +25,7 @@ Learn to use GraphQL in a Rails app to talk to your front-end clients. Updated i
 + 7. What we'll do 1min
 + 8. JSON 2min
 + 9. Introduction to queries 3min
-- 10. Query arguments 2min
++ 10. Query arguments 2min
 - 11. Query context 3min
 - 12. ActiveRecord queries 7min
 - 13. Scalar field types 3min
